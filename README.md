@@ -48,6 +48,10 @@ and clarity. Please check for spelling and sentence structure errors and suggest
 ```
 
 ```
+Give me plain text so that I can copy and paste
+```
+
+```
 What suggestions do you have to enhance the clarity of my text?
 ```
 
